@@ -1,0 +1,6 @@
+id,cliente,valor,produto,data_venda
+1,Lucas,100,Notebook,2024/01/10
+2,,250,Mouse,2024/01/12
+3,Carla,abc,Fone,2024/01/13
+4,João,300,,2024/01/15
+5,Ana,150,Teclado,2024/01/18
